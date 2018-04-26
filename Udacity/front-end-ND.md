@@ -6,3 +6,6 @@ Front End ND
 
 
 [Orientation Day 1-Youtube](https://www.youtube.com/watch?v=Bn53sMTz_xU&feature=youtu.be)
+
+
+[GWG AMA Session 1](https://docs.google.com/spreadsheets/d/1D36sxMmP1U20pbVdV_Pz-Oo7R5Rs9Cehrdlfbl1jN8U/edit#gid=0)
